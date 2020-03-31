@@ -27,6 +27,8 @@ conda create --name <envname> --file requirements.txt
 ## 🎈 Usage <a name="usage"></a>
 
 ```
+conda activate <envname>
+
 jupyter lab
 ```
 
