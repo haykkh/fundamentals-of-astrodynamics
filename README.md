@@ -20,16 +20,23 @@
 
 ### Installing
 
+Create a conda environment, installing required packages from requirements.txt
+
 ```
-conda create --name <envname> --file requirements.txt
+$ conda create --name <envname> --file requirements.txt
 ```
 
 ## 🎈 Usage <a name="usage"></a>
 
-```
-conda activate <envname>
+Activate conda environment
 
-jupyter lab
+```
+$ conda activate <envname>
+```
+Launch JupyterLab
+
+```
+$ jupyter lab
 ```
 
 ## ⛏️ Built Using <a name = "built_using"></a>
