@@ -2,7 +2,7 @@
 
 <p align="center"> Working through Fundamentals of Astrodynamics by R. R. Bate, D. D. Mueller, and J. E. White
     <br>
-    (ie rocket surgery in jupyter lab)
+    (ie rocket surgery in jupyterlab)
 </p>
 
 ## 📝 Table of Contents
