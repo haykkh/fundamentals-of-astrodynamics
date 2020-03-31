@@ -1,6 +1,13 @@
+
 <h1 align="center">Fundamentals of Astrodynamics</h3>
 
-<p align="center"> Working through Fundamentals of Astrodynamics by R. R. Bate, D. D. Mueller, and J. E. White
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px src="header.png" alt="Project logo"></a>
+</p>
+
+
+<p align="center"> Working through <a href="https://archive.org/details/BateMuellerAndWhiteFundamentalsOfAstrodynamics/mode/2up">Fundamentals of Astrodynamics by R. R. Bate, D. D. Mueller, and J. E. White</a>
     <br>
     (ie rocket surgery in jupyterlab)
 </p>
