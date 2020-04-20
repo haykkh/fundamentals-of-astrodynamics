@@ -150,3 +150,7 @@ cython_debug/
 media
 static
 1/.vscode/settings.json
+
+
+# psd files
+psd/
